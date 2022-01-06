@@ -1,5 +1,5 @@
 ## AI Face Detection:
-This is a simple face detection program based on Artificial Intelligence. It's able to detect human faces.
+This is a simple face detection program based on Artificial Intelligence which made with Python. It's able to detect human faces.
 
 
 ## Outcome:
